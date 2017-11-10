@@ -45,7 +45,7 @@ header {
 
 .section-2 article {
     height: 120px;
-    width: calc(100%/3 - 13.4px);
+    width: calc(100%/3 - 40px/3);
 }
 
 footer {
